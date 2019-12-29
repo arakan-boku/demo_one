@@ -6,7 +6,7 @@
 
 　１．Windows10に「anaconda」をインストール
 
-�２．仮想環境：conda create -n XXXXXXX python=3.7
+��２．仮想環境：conda create -n XXXXXXX python=3.7
 　　　例　conda create -n demos python=3.7
 
 　３．仮想環境をアクティブ：activate XXXXXXX
