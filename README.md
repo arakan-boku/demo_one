@@ -16,7 +16,7 @@
 
 　    
 ４．動作に必要なライブラリインストール
-　
+
 	pip install --upgrade tensorflow
 	
 	pip install django
@@ -24,8 +24,6 @@
 	pip install django-bootstrap4
 	
 	pip install django-widget-tweaks
-	
-	pip install "tensorflow_hub==0.4.0"
 	
 	pip install Pillow
 	
